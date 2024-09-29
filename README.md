@@ -1,1 +1,1 @@
-# stm32multi_flash
+# stm32_stlink_multi_firmware_loader
